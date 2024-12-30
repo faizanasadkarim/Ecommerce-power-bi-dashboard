@@ -1,6 +1,5 @@
 # Ecommerce-power-bi-dashboard
-Goal of the Project:
-Work with data sets using Power BI Tool. You should be able to analyze data and answer the key business questions with the help of dashboards and report and derive insights. Also, you should document & communicate the insights and findings from the data
+
 Business Case:
 As analyst and you are working for leading e-commerce client. The client asked you to create analytical dash boards below themes.
 • Overview about various KPI's
